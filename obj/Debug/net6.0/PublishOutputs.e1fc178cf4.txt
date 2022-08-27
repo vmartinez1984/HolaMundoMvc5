@@ -1,0 +1,7 @@
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/HolaMundo
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/appsettings.Development.json
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/appsettings.json
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/HolaMundo.dll
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/HolaMundo.deps.json
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/HolaMundo.runtimeconfig.json
+/media/vmartinez/X-Files1/Documents/HolaMundo/bin/Debug/net6.0/publish/HolaMundo.pdb
